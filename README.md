@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GigabyteBlender
+- 👋 Hi, My name is Daniel Pertu
 - 👀 I’m interested in coding and learning
-- 🌱 I’m currently learning Physics, Maths and Computer science at A-Levels
+- 🌱 I’m currently learning Physics, Math and Computer science at A-Levels
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me, my email is dan.pertu@gmail.com
+- 📫 How to reach me: dan.pertu@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy further maths
+- ⚡ Fun fact: I have a dog named Bruno 🐶
