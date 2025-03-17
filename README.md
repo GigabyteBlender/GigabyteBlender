@@ -17,6 +17,7 @@
 
 ## Contact Me
 - 📫 How to reach me: [dan.pertu@gmail.com](mailto:dan.pertu@gmail.com)
+- 📫 Phone number: [+44 7763056525](07763056525)
 
 ## Hobbies
 - 🎮 Game Development
