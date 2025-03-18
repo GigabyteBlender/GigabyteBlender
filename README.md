@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel
+# 👋 Hi, I'm Daniel Pertu
 
 ## About Me
 - 👀 I'm interested in coding and continuous learning.
@@ -15,7 +15,7 @@
 - **Areas of Interest:** Web Development, Data Science, Machine Learning
 
 ## Contact Me
-- 📫 How to reach me: [152778975+GigabyteBlender@users.noreply.github.com](152778975+GigabyteBlender@users.noreply.github.com)
+- 📫 How to reach me: [pertu.works@gmail.com](pertu.works@gmail.com)
 
 ## Hobbies
 - 💻 Programming
