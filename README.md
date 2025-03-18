@@ -1,10 +1,9 @@
-# 👋 Hi, I'm Daniel Pertu
+# 👋 Hi, I'm Daniel
 
 ## About Me
 - 👀 I'm interested in coding and continuous learning.
 - 🌱 Currently studying Physics, Math, and Computer Science at A-Levels.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a dog named Bruno 🐶
 
 ## Projects
 - 💻 Check out my repositories for various projects and contributions.
@@ -16,8 +15,7 @@
 - **Areas of Interest:** Web Development, Data Science, Machine Learning
 
 ## Contact Me
-- 📫 How to reach me: [dan.pertu@gmail.com](mailto:dan.pertu@gmail.com)
-- 📞 Phone number: [+44 7763056525]
+- 📫 How to reach me: [152778975+GigabyteBlender@users.noreply.github.com](152778975+GigabyteBlender@users.noreply.github.com)
 
 ## Hobbies
 - 💻 Programming
