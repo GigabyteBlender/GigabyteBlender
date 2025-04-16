@@ -11,8 +11,8 @@
 
 ## Skills
 - **Languages:** Python, JavaScript (+ HTML, CSS), C#, c++, Java
-- **Tools:** Git, GitHub, Visual Studio Code
-- **Areas of Interest:** Web Development, Data Science, Machine Learning
+- **Tools:** Git, GitHub, Visual Studio Code, Intellij
+- **Areas of Interest:** Web Development, Data Science, Machine Learning, Software development
 
 ## Contact Me
 - 📫 How to reach me: [pertu.works@gmail.com](pertu.works@gmail.com)
@@ -24,4 +24,4 @@
 - 🎹 Piano
 - 🥁 Drums
 
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch for collaboration opportunities.
+Thank you for visiting my profile! Please feel free to explore my repositories and get in touch about collaboration opportunities.
