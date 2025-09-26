@@ -15,7 +15,7 @@
 - **Areas of Interest:** Web Development, Data Science, Machine Learning, Software development
 
 ## Contact Me
-- 📫 How to reach me: [pertu.works@gmail.com](pertu.works@gmail.com)
+- 📫 How to reach me: [mailto:pertu.works@gmail.com](pertu.works@gmail.com)
 
 ## Hobbies
 - 💻 Programming
