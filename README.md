@@ -10,8 +10,7 @@
 - 🌟 I'm looking to collaborate on interesting projects and open-source contributions.
 
 ## Skills
-- **Languages:** Python, JavaScript (+ HTML, CSS), C#, c++, Java
-- **Tools:** Git, GitHub, Visual Studio Code, Intellij
+- **Languages:** Python, Typescript
 - **Areas of Interest:** Web Development, Data Science, Machine Learning, Software development
 
 ## Contact Me
