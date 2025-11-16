@@ -1,26 +1,16 @@
 # 👋 Hi, I'm Daniel Pertu
 
 ## About Me
-- 👀 I'm interested in coding and continuous learning.
-- 🌱 Currently studying Physics, Math, and Computer Science at A-Levels.
-- 😄 Pronouns: he/him
+- Currently studying Physics, Math, and Computer Science at A-Levels.
 
 ## Projects
-- 💻 Check out my repositories for various projects and contributions.
-- 🌟 I'm looking to collaborate on interesting projects and open-source contributions.
+- Check out my repositories for various projects and contributions.
+- I'm looking to collaborate on interesting projects and open-source contributions.
 
-## Skills
-- **Languages:** Python, Typescript
-- **Areas of Interest:** Web Development, Data Science, Machine Learning, Software development
+**Areas of Interest:** 
+Web Development, Data Science, Machine Learning, Software development
 
 ## Contact Me
-- 📫 How to reach me: [pertu.works@gmail.com](mailto:pertu.works@gmail.com)
-
-## Hobbies
-- 💻 Programming
-- 📚 Reading
-- 🎸 Guitar
-- 🎹 Piano
-- 🥁 Drums
+- How to reach me: [pertu.works@gmail.com](mailto:pertu.works@gmail.com)
 
 Thank you for visiting my profile! Please feel free to explore my repositories and get in touch about collaboration opportunities.
