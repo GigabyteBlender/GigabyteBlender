@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Daniel Pertu
 
 ## About Me
-- Currently studying Physics, Math, and Computer Science at A-Levels.
+- Currently studying Data science & AI at Leiden university.
 
 ## Projects
 - Check out my repositories for various projects and contributions.
